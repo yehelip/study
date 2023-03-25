@@ -1,0 +1,9 @@
+
+Permutations σ and Sn(the symmetric group
+- all the prems on a set + op=function composition
+group means there's Closure, Associativity, 
+an Idenentity permutation exists, ∀σ∈Sn　∃π：σ ∘ π＝Id)
+
+Hall's theorem - in a finite bipartite graph G(X,Y,E):
+∀W⊆X |Ng(W)|≧|W| ⇔　An X-perfect matching exists.
+
