@@ -19,3 +19,4 @@ Thus I encourage you to try to/look for proofs for the following:
 - |A| = |The set of all algebric numbers| =　ℵ0
 - |B| = |ℝ\A| = |The set of all transcedental numbers| = ℵ
 - |All subsets of R with cardinality ℵ0/ℵ| 
+- Let ℵ0 people with a natural number of hats on their head guess how many hats they have. How many options are there, given only a finite number of people guessed right/wrong?
